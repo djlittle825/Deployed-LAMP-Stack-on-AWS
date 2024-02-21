@@ -1,12 +1,10 @@
 # DevOps Project: LAMP Stack Website Deployment on AWS
 
-Welcome to the README file for the DevOps project where we deployed a LAMP Stack Website on AWS. This document will provide an overview of the project, detailing the architecture, resources utilized, deployment process, and other relevant information.
-
 ## Project Overview
 
 In this project, we set up a LAMP (Linux, Apache, MySQL, PHP) Stack Website on Amazon Web Services (AWS) utilizing various AWS services to ensure scalability, reliability, and security. Below is a summary of the key components and steps involved in the deployment:
 
-## Key Components and Features
+## Deployment Steps:
 
 1. **Virtual Private Cloud (VPC)**:
    - Configured a VPC with public and private subnets across two availability zones for enhanced reliability and fault tolerance.
