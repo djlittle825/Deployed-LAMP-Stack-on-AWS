@@ -2,7 +2,7 @@
 
 **Project Overview:** In this project, I set up a LAMP (Linux, Apache, MySQL, PHP) Stack Website on Amazon Web Services (AWS) utilizing various AWS services to ensure scalability, reliability, and security. Below is a summary of the key components and steps involved in the deployment:
 
-## Deployment Steps:
+**Deployment Steps**:
 
 1. **Virtual Private Cloud (VPC)**:
    - Configured a VPC with public and private subnets across two availability zones for enhanced reliability and fault tolerance.
