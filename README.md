@@ -1,4 +1,4 @@
-# DevOps Project: LAMP Stack Website Deployment on AWS
+**Project: Hosting a LAMP Stack Website on AWS**
 
 ## Project Overview
 
