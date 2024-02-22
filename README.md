@@ -54,6 +54,6 @@ In this project, we set up a LAMP (Linux, Apache, MySQL, PHP) Stack Website on A
 16. **SQL Workbench**:
     - Utilized SQL Workbench to import data into the MySQL database.
      
-Repository: The reference diagram and deployment scripts for this project are available in the GitHub repository. Please refer to the repository for detailed instructions on deploying a LAMP Stack website on AWS infrastructure.
+**Repository**: The reference diagram and deployment scripts for this project are available in the GitHub repository. Please refer to the repository for detailed instructions on deploying a LAMP Stack website on AWS infrastructure.
 
-Conclusion: By following the instructions and utilizing the provided resources, you can successfully deploy a static HTML web application on AWS, ensuring high availability, security, and scalability.
+**Conclusion**: By following the instructions and utilizing the provided resources, you can successfully deploy a LAMP Stack web application on AWS, ensuring high availability, security, and scalability.
